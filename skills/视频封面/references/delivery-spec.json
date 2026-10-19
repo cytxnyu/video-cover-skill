@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "skill": "视频封面",
+  "default_output": "images",
+  "style_source": "cover-editorial-collage",
+  "source_skill_sha256": "8acdcf87199654a90e7c9196b221e567f87827e0bf9085dbc902aa020f9dfbf1",
+  "independent_compositions": true,
+  "variants": {
+    "portrait": {"ratio": [3, 4], "preferred_size": [1536, 2048], "filename": "cover-3x4.png"},
+    "landscape": {"ratio": [16, 10], "preferred_size": [2304, 1440], "filename": "cover-16x10.png"}
+  }
+}

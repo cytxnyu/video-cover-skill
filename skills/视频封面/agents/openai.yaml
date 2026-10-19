@@ -1,0 +1,6 @@
+interface:
+  display_name: "视频封面"
+  short_description: "读取视频内容与真实人物，以原版撕纸杂志拼贴风格生成横竖双版封面"
+  default_prompt: "使用 $视频封面，根据我提供的视频内容与人物，完全沿用 cover-editorial-collage 风格，生成并检查 3:4 和 16:10 两张独立构图的视频封面。"
+policy:
+  allow_implicit_invocation: true
